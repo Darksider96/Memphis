@@ -1,1 +1,2 @@
-SpeechRecognition==24.3.1
+SpeechRecognition==3.14.0
+Vosk==0.4.6
